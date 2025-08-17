@@ -28,3 +28,7 @@ docker rm -f custom-nginx-t2
 
 ### Задача 4
 
+![txt](img/7.jpg)
+
+### Задача 5
+
