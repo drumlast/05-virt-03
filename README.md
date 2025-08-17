@@ -6,3 +6,8 @@
 https://hub.docker.com/repository/docker/drumlast/custom-nginx/general
 
 ### Задача 2
+
+![txt](img/1.jpg)
+![txt](img/2.jpg)
+
+### Задача 3
