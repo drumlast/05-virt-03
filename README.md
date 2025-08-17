@@ -32,3 +32,7 @@ docker rm -f custom-nginx-t2
 
 ### Задача 5
 
+Команда docker compose up -d по умолчанию читает файлы в порядке приоритета: compose.yaml, compose.yml, docker-compose.yaml, docker-compose.yml.
+Значит, будет запущен только compose.yaml (Portainer), потому что он имеет более высокий приоритет.
+![txt](img/8.jpg)
+
